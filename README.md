@@ -5,7 +5,7 @@
 
 # Key Steps in the Project
 
-# 1. Data Collection and AnalysisThe dataset used in this project is the PIMA Diabetes Dataset. It consists of 768 rows and 9 columns, representing various medical attributes like pregnancies, glucose levels, blood pressure, skin thickness, insulin, BMI, diabetes pedigree function, and age. The target variable is the "Outcome," where 1 indicates diabetic and 0 indicates non-diabetic. A quick analysis revealed:
+### 1. Data Collection and AnalysisThe dataset used in this project is the PIMA Diabetes Dataset. It consists of 768 rows and 9 columns, representing various medical attributes like pregnancies, glucose levels, blood pressure, skin thickness, insulin, BMI, diabetes pedigree function, and age. The target variable is the "Outcome," where 1 indicates diabetic and 0 indicates non-diabetic. A quick analysis revealed:
  - Non-diabetic cases: 500
  - Diabetic cases: 268
 
